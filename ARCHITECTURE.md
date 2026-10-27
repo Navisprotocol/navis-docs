@@ -42,7 +42,7 @@ The intelligence engine of Navis operates on a modular, highly scalable cloud in
 To balance seamless accessibility with absolute user sovereignty, Navis implements a zero-trust, client-side encryption framework. Private keys and user funds are *never* exposed to the central server or cloud infrastructure.
 
 <div align="center">
-  <img src="./image_0.png" alt="Navis Dual-Guard Architecture Diagram" width="100%">
+  <img src="./image_0.png.jfif" alt="Navis Dual-Guard Architecture Diagram" width="100%">
   <p><em>Figure 1: Navis Dual-Guard Core ensuring client-side Absolute Control and Safe Recovery (Blind Vault via SSS).</em></p>
 </div>
 
@@ -66,7 +66,7 @@ To balance seamless accessibility with absolute user sovereignty, Navis implemen
 Unlike static trading algorithms, Navis employs a closed-loop system where historical execution data is continuously channeled back into the AI models to achieve continuous self-optimization.
 
 <div align="center">
-  <img src="./image_1.png" alt="Navis Quant Engine & Closed-Loop Feedback Diagram" width="100%">
+  <img src="./image_1.png.jfif" alt="Navis Quant Engine & Closed-Loop Feedback Diagram" width="100%">
   <p><em>Figure 2: Navis Quant Engine showing Global Data Ingestion, Signal Generation, and the Closed-Loop Feedback Optimization System.</em></p>
 </div>
 
