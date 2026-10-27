@@ -5,25 +5,26 @@
 
 ---
 
-## 🚀 Phase 1: Foundation & Pre-Genesis (Current Focus)
+## 🚀 Phase 1: Foundation, Brand & Landing (Current Focus)
 * [x] **Brand & Architecture Definition:** Finalization of the Navis Dual-Guard Architecture™ and core non-custodial security specs.
 * [x] **Repository & Documentation Setup:** Structuring `navis-landing`, `navis-docs`, and `navis-quant-toolkit`.
 * [ ] **Landing Page Launch:** Deployment of the official web presence at `www.navisprotocol.com`.
-* [ ] **Cloud Infrastructure Setup:** Provisioning scalable GCP environments for upcoming backend services.
+* [ ] **Cloud Infrastructure Setup:** Provisioning scalable GCP environments for upcoming backend and authentication services.
 
-## 📈 Phase 2: Core Engine & Data Pipeline
+## 🛡️ Phase 2: Terminal & Dual-Guard Auth MVP (Primary Engineering Focus)
+* [ ] **Client-Side Cryptography:** Implementation of Web Crypto API, key derivation, and local security modules.
+* [ ] **Absolute Control Mode:** Integration of direct Web3 self-custody wallet connections (`personal_sign`).
+* [ ] **Safe Recovery Mode (Blind Vault):** Deployment of the 3-share Shamir's Secret Sharing (SSS) model for seamless email/social onboarding with zero plaintext server exposure.
+* [ ] **Terminal Dashboard UI:** Release of the Next.js trading terminal foundation supporting both authentication tracks.
+
+## 📊 Phase 3: Macro Data Pipeline & Quantitative Engine
 * [ ] **Macro Data Ingestion:** Implementation of multi-country inflation and economic indicator scrapers/APIs.
 * [ ] **Microstructure Parser:** Development of near-zero latency order book and liquidity depth parsers.
-* [ ] **AI Inference Core:** Integration of initial machine learning models for signal generation.
-
-## 🛡️ Phase 3: Terminal & Dual-Guard Auth MVP
-* [ ] **Client-Side Cryptography:** Implementation of Web Crypto API and SSS (Shamir's Secret Sharing) modules.
-* [ ] **Terminal Dashboard:** Release of the Next.js trading terminal for both Web3 wallets and blind-vault email onboarding.
-* [ ] **Closed-Loop Feedback:** Integration of execution analytics and model self-optimization feedback loops.
+* [ ] **AI Inference Core & Feedback Loop:** Integration of machine learning models for signal generation and execution self-optimization.
 
 ## 🌐 Phase 4: Hybrid DEX & Ecosystem Scale
 * [ ] **Exchange API Connectors:** Automated execution bridges for major crypto and FX markets.
-* [ ] **Hybrid DEX Beta:** Combining centralized liquidity depth with decentralized non-custodial execution.
+* [ ] **Hybrid DEX Beta:** Combining centralized liquidity depth with decentralized non-custodial execution and near-zero fees.
 * [ ] **Ecosystem Expansion:** Horizontal scaling across new asset classes and regional markets.
 
 ---
